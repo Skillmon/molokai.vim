@@ -106,8 +106,8 @@ hi Visual                        guibg=#403D3D
 hi WarningMsg      guifg=#FFFFFF guibg=#333333 gui=bold
 hi WildMenu        guifg=#66D9EF guibg=#000000
 
-hi TabLine         guifg=#808080 guibg=#1b1d1e ctermfg=15 ctermbg=242
-hi TabLineFill     guifg=#1b1d1e guibg=#1b1d1e gui=reverse cterm=reverse
+hi TabLine         guifg=#808080 guibg=#0d0e0f ctermfg=15 ctermbg=242
+hi TabLineFill     guifg=#0d0e0f guibg=#0d0e0f
 hi TabLineSel                                  gui=bold    cterm=bold
 
 hi MiniTrailspace  guibg=#FF0000               ctermbg=196
