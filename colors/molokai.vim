@@ -110,6 +110,8 @@ hi TabLine         guifg=#808080 guibg=#1b1d1e ctermfg=15 ctermbg=242
 hi TabLineFill     guifg=#1b1d1e guibg=#1b1d1e gui=reverse cterm=reverse
 hi TabLineSel                                  gui=bold    cterm=bold
 
+hi MiniTrailspace  guibg=#FF0000               ctermbg=196
+
 if s:molokai_original == 1
    hi Normal          guifg=#F8F8F2 guibg=#272822
    hi Comment         guifg=#75715E
